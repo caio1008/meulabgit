@@ -1,2 +1,2 @@
 # meulabgit
-laboratorio git
+laboratoriogit
